@@ -78,7 +78,7 @@
 
 ---
 
-<h2 align="center">📫 Como entrar em contato</h2>
+<h2 align="center">📫 Contato</h2>
 
 <p align="center">
   <a href="mailto:igorferreira051005@gmail.com">
