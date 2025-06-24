@@ -1,31 +1,34 @@
 ## Welcome to my GitHub 👋
-<img align="right" height=150px width=150px src="https://user-images.githubusercontent.com/98707474/191408519-b9236392-4bde-4d2f-a4ee-bbf9ee631bda.png">
+<img align="right" height=150px width=150px src="https://pikaso.cdnpk.net/private/production/2035394430/original-assistant-remove-background.png?token=exp=1764028800~hmac=648d7201f331ba141f423e0a327653febb2686a7001eb9e359b7709610673d2c">
 <p align="left" text-align="justify">
-  Me chamo Enzo Sakamoto, tenho 22 anos e estou cursando o quinto ano de Engenharia de Computação (9º semestre) no Instituto Mauá de Tecnologia.<br/>
-  <em>My name is Enzo Sakamoto, I'm 22 years old and I'm in my fifth year of Computer Engineering (9th semester) at Instituto Mauá de Tecnologia.</em>
+  Me chamo Igor Mazzarino, tenho 19 anos e estou cursando o segundo ano de Análise e Desenvolvimento de Sistemas (4º semestre) na Universidade Paulista.<br/>
+  <em>My name is Igor Mazzarino, I'm 19 years old and I'm in my second year of Systems Analysis and Development (4th semester) at Universidade Paulista.</em>
 </p>
 <p align="left" text-align="justify">
-  🎯 <b>Estou focando em aprender | <em>I'm focused on learning</em>:</b> Software Architecture, C# & .NET.<br/>
+  🎯 <b>Estou focando em aprender | <em>I'm focused on learning</em>:</b> Software Architecture and Database, C#, SQL & .NET.<br/>
 </p>
 <p align="left" text-align="justify">
-  📝 <b>Certificações | <em>Certifications</em>:</b> Google Cloud Plataform - Associate Cloud Engineer (GCP-ACE), AWS AI Practitioner (AIF-C01) & Microsoft Azure Fundamentals (AZ-900).
-</p>
-
+📝 <b>Certificações | <em>Certifications</em>:</b><br>
+• Hacking e Pentest 2.0 – Guilherme Junqueira<br>
+• SENAI – Desvendando Blockchain<br>
+• SENAI – Lógica de Programação<br>
+• Faculdade UNIP – Análise e Desenvolvimento de Sistemas (Em andamento)
+  
 <p align="left" text-align="justify">
-  🛹 <b>Hobbies:</b> Andar de skate, jogar, ver filmes de terror, treinar e programar | <em>Skateboarding, play video games, watch horror movies, work out and programming</em>.
+  🛹 <b>Hobbies:</b> Jogar, ver filmes séries, jogar futebol e programar | <em>Play video games, watch series, play football and programming</em>.
 </p>
 
 ## 💻 Technologies
-[![Skills](https://skillicons.dev/icons?i=html,css,react,js,ts,next,flutter,nodejs,java,python,dart,cs,dotnet,aws,azure,gcp,docker,github)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=html,css,js,git,java,python,cs,c,vscode,mysql,github)](https://skillicons.dev)
  
 ## 🌐 Contact
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/enzo.sakamoto)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/enzosakamoto)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/igor-mazzarino-2b9666299/)
 
 ##
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=enzosakamoto&show_icons=true&count_private=true&theme=transparent"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzosakamoto&layout=compact&langs_count=7&theme=transparent"/>
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mazzarindev&show_icons=true&count_private=true&theme=transparent"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazzarindev&layout=compact&langs_count=7&theme=transparent"/>
+</div>
   
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/enzosakamoto/enzosakamoto/blob/output/github-contribution-grid-snake-dark.svg" />
