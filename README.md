@@ -15,7 +15,7 @@
 • Faculdade UNIP – Análise e Desenvolvimento de Sistemas (Em andamento)
   
 <p align="left" text-align="justify">
-  🛹 <b>Hobbies:</b> Jogar, ver filmes séries, jogar futebol e programar | <em>Play video games, watch series, play football and programming</em>.
+  🛹 <b>Hobbies:</b> Jogar, ver filmes e séries, jogar futebol e programar | <em>Play video games, watch movies and series, play football and programming</em>.
 </p>
 
 ## 💻 Technologies
