@@ -19,7 +19,7 @@
 </p>
 
 ## 💻 Technologies
-[![Skills](https://skillicons.dev/icons?i=html,css,js,git,java,python,cs,c,vscode,mysql,github,django)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=html,css,js,git,java,python,cs,c,vscode,mysql,github,django,typescript,express,laravel)](https://skillicons.dev)
  
 ## 🌐 Contact
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/igor-mazzarino-2b9666299/)
