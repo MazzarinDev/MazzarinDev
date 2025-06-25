@@ -23,6 +23,7 @@
  
 ## 🌐 Contact
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/igor-mazzarino-2b9666299/)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mazzarin.dev@gmail.com)
 
 ##
 <div align="center">
