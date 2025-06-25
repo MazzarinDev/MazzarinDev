@@ -5,7 +5,7 @@
   <em>My name is Igor Mazzarino, I'm 19 years old and I'm in my second year of Systems Analysis and Development (4th semester) at Universidade Paulista.</em>
 </p>
 <p align="left" text-align="justify">
-  🎯 <b>Estou focando em aprender | <em>I'm focused on learning</em>:</b> Software Architecture and Database, C#, SQL & .NET.<br/>
+  🎯 <b>Estou focando em aprender | <em>I'm focused on learning</em>:</b> Software Architecture, Database, C#, SQL & .NET.<br/>
 </p>
 <p align="left" text-align="justify">
 📝 <b>Certificações | <em>Certifications</em>:</b><br>
