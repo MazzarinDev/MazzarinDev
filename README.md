@@ -2,7 +2,7 @@
 <img align="right" height=150px width=150px src="https://pikaso.cdnpk.net/private/production/2035394430/original-assistant-remove-background.png?token=exp=1764028800~hmac=648d7201f331ba141f423e0a327653febb2686a7001eb9e359b7709610673d2c">
 <p align="left" text-align="justify">
   Me chamo Igor Mazzarino, tenho 20 anos e sou Analista de Desenvolvimento e Sistemas pela Universidade Paulista.<br/>
-  <em>My name is Igor Mazzarino, I am 20 years old and I am a Systems Development Analyst from Universidade Paulistay.</em>
+  <em>My name is Igor Mazzarino, I am 20 years old and I am a Systems Development Analyst from Universidade Paulista.</em>
 </p>
 <p align="left" text-align="justify">
   🎯 <b>Estou focando em aprender | <em>I'm focused on learning</em>:</b> Software Architecture, Database, C#, SQL & .NET.<br/>
