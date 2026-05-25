@@ -1,8 +1,8 @@
 ## Welcome to my GitHub 👋
 <img align="right" height=150px width=150px src="https://pikaso.cdnpk.net/private/production/2035394430/original-assistant-remove-background.png?token=exp=1764028800~hmac=648d7201f331ba141f423e0a327653febb2686a7001eb9e359b7709610673d2c">
 <p align="left" text-align="justify">
-  Me chamo Igor Mazzarino, tenho 19 anos e estou cursando o segundo ano de Análise e Desenvolvimento de Sistemas (4º semestre) na Universidade Paulista.<br/>
-  <em>My name is Igor Mazzarino, I'm 19 years old and I'm in my second year of Systems Analysis and Development (4th semester) at Universidade Paulista.</em>
+  Me chamo Igor Mazzarino, tenho 20 anos e sou Analista de Desenvolvimento e Sistemas pela Universidade Paulista.<br/>
+  <em>My name is Igor Mazzarino, I am 20 years old and I am a Systems Development Analyst from Universidade Paulistay.</em>
 </p>
 <p align="left" text-align="justify">
   🎯 <b>Estou focando em aprender | <em>I'm focused on learning</em>:</b> Software Architecture, Database, C#, SQL & .NET.<br/>
@@ -12,7 +12,7 @@
 • Hacking e Pentest 2.0 – Guilherme Junqueira<br>
 • SENAI – Desvendando Blockchain<br>
 • SENAI – Lógica de Programação<br>
-• Faculdade UNIP – Análise e Desenvolvimento de Sistemas (Em andamento)
+• Faculdade UNIP – Análise e Desenvolvimento de Sistemas.
   
 <p align="left" text-align="justify">
   🛹 <b>Hobbies:</b> Jogar, ver filmes e séries, jogar futebol e programar | <em>Play video games, watch movies and series, play football and programming</em>.
